@@ -1,2 +1,4 @@
-# Dashboard-BS
-# Dashboard-BS
+# Bike Sharing Dashboard 🚴‍♂️
+
+## Dashboard-BS
+Streamlit run dashboard.py
