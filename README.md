@@ -10,4 +10,4 @@
 
 
 ## Dashboard-BS
-Streamlit run dashboard.py
+	Streamlit run dashboard.py
